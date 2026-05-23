@@ -15,10 +15,13 @@ except KeyboardInterrupt:
     print("\nDone.")
 
 '''
-my observation
+Run this file to get the cordinates of the mouse so as to perform operations to select, copy/paste stuff from the screen and send the messages
+
+my observations
+DRAG
 from 409 129
 to 409 853
 
 TO PASTE -> 743 876
-to SEND -> 1443 875
+to SEND -> 1443 875 or hit enter on keyboard
 '''

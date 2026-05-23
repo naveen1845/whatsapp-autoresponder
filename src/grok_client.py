@@ -18,3 +18,8 @@ response = client.chat.completions.create(
 )
 
 print(response.choices[0].message.content)
+
+
+'''
+this file has nothing to do with the main, just for demo purpose
+'''

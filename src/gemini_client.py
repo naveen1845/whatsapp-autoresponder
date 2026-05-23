@@ -12,3 +12,8 @@ response = client.models.generate_content(
 )
 
 print(response.text)
+
+
+'''
+this file has nothing to do with the main, just for demo purpose
+'''
